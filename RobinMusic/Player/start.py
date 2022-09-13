@@ -8,7 +8,7 @@ from config import START_PIC, UPDATES_CHANNEL, GROUP_SUPPORT, BOT_USERNAME
 
 
 ALIVE_PIC = START_PIC
-HOME_TEXT = " **✨Hᴇʏ [{}](tg://user?id={})**\n\n**⚜ɪᴍ ʀᴏʙɪɴ ғʀᴏᴍ ᴏɴᴇ ᴘɪᴇᴄᴇ.
+HOME_TEXT = """ **✨Hᴇʏ [{}](tg://user?id={})**\n\n**⚜ɪᴍ ʀᴏʙɪɴ ғʀᴏᴍ ᴏɴᴇ ᴘɪᴇᴄᴇ.
 \n⚜ᴀ ᴍᴜsɪᴄ sᴛʀᴇᴀᴍɪɴɢ ʙᴏᴛ, sᴘᴇᴄɪᴀʟʟʏ ᴍᴀᴅᴇ ғᴏʀ ᴡᴇᴇʙs.
 \n🎶Aᴅᴅ ᴍᴇ ᴛᴏ ᴛᴀsᴛᴇ ᴍʏ ᴍɪʟᴋ🎧 | ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ᴏᴛᴀᴋᴜ • ʙɪɴɢᴇ](t.me/otaku_binge)**"
 HELP_TEXT = """❥Bᴇʟᴏᴡ ᴀʀᴇ ᴀʟʟ ᴏғ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛᴇᴅ ᴄʜᴇᴄᴋ ᴛʜᴇᴍ ᴏᴜᴛ.\n[ᴏᴛᴀᴋᴜ • ʙɪɴɢᴇ](t.me/otaku_binge)
