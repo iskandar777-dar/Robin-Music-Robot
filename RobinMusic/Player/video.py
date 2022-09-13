@@ -2,13 +2,13 @@ import re
 import asyncio
 
 from config import ASSISTANT_NAME, BOT_USERNAME, IMG_1, IMG_2, IMG_6
-from NIXA.inline import stream_markup
+from RobinMusic.inline import stream_markup
 from Process.design.thumbnail import thumb
 from Process.design.chatname import CHAT_TITLE
 from RobinMusic.filters import command, other_filters
-from .queues import QUEUE, add_to_queue
-from NIXA.main import call_py, Test as user
-from NIXA.main import bot as Client
+from RobinMusic.queues import QUEUE, add_to_queue
+from RobinMusic.main import call_py, Test as user
+from RobinMusic.main import bot as Client
 from pyrogram.errors import UserAlreadyParticipant, UserNotParticipant
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 from pytgcalls import StreamType
